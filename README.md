@@ -10,7 +10,6 @@ Skills: ⚛REACT, VUE 👩‍💻 JAVASCRIPT / HTML / CSS
 
 - 🔭 I’m currently working on React based apps.
 
-![twittwe](https://twitter.com/h_a_z_e__)
 
 
 
