@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, Hazel
 
-<!--
-**Hayzie/Hayzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Hazel
+#### I am a software developer based in Vanderbijlpark, South Africa
+![I am a software developer based in Vanderbijlpark, South Africa](https://github.com/Hayzie/Hayzie/blob/main/Screenshot%202021-09-13%20173421.png)
 
-Here are some ideas to get you started:
+I do web development and like to play around with frameworks such as React, Vue, Laravel... and more, I love to experiment, trying out new things and always learning about new and upcoming cutting  edge techonogies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: ⚛REACT, VUE 👩‍💻 JAVASCRIPT / HTML / CSS
+
+- 🔭 I’m currently working on React based apps.
+
+
+
+
+
