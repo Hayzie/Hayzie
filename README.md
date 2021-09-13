@@ -1,5 +1,5 @@
 ### Hi there 👋
-![I am a software developer based in Vanderbijlpark, South Africa](https://github.com/Hayzie/Hayzie/blob/main/Screenshot%202021-09-13%20173421.png)
+![I am a software developer based in Vanderbijlpark, South Africa](https://github.com/Hayzie/Hayzie/blob/main/Screenshot%202021-09-13%20174744.png)
 
 ### Hi there 👋, my name is Hazel
 #### I am a software developer based in Vanderbijlpark, South Africa
