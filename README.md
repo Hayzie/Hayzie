@@ -8,7 +8,7 @@ I do web development and like to play around with frameworks such as React, Vue,
 
 Skills: ⚛REACT, VUE 👩‍💻 JAVASCRIPT / HTML / CSS
 
-- 🔭 I’m currently working on React based websites/apps.
+- 🔭 I’m currently working on React and Vue based websites/apps.
 
 
 
