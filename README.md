@@ -8,7 +8,7 @@ I a software developer experienced in frameworks including React, Vue, Laravel..
 
 🧑🏻‍💻 Skills: ⚛REACT | VUE | JAVASCRIPT | HTML | CSS
 
-- 🔭 I’m currently working on React and Vue based websites/apps.
+🔭 I’m currently working on React and Vue based websites/apps.
 
 
 
