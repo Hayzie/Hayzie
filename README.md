@@ -1,5 +1,7 @@
 ### Hi there 👋
-![I am a software developer based in Vanderbijlpark, South Africa](https://github.com/Hayzie/Hayzie/blob/main/emile-perron-xrVDYZRGdw4-unsplash.jpg)
+![I am a software developer based in Vanderbijlpark, South Africa]
+
+<img width="600" src="https://github.com/Hayzie/Hayzie/blob/main/emile-perron-xrVDYZRGdw4-unsplash.jpg">
 
 ### My name is Hazel
 #### I am a software developer based in Vanderbijlpark, South Africa
