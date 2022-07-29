@@ -1,5 +1,5 @@
 ### Hi there 👋
-![I am a software developer based in Vanderbijlpark, South Africa]
+I am a software developer based in Brackendown (Johannesburg South), South Africa
 
 <img width="600" src="https://github.com/Hayzie/Hayzie/blob/main/emile-perron-xrVDYZRGdw4-unsplash.jpg">
 
