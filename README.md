@@ -4,9 +4,7 @@ Software developer, Brackendown (Johannesburg South), South Africa
 <img width="600" src="https://github.com/Hayzie/Hayzie/blob/main/emile-perron-xrVDYZRGdw4-unsplash.jpg">
 
 ### My name is Hazel
-#### I am a software developer based in Vanderbijlpark, South Africa
-
-I do web development and like to play around with frameworks such as React, Vue, Laravel... and more, I love to experiment, trying out new things and always learning about new and upcoming cutting  edge techonogies.
+I a software developer experienced in frameworks including React, Vue, Laravel... and more, I love to experiment, try out new things and learn about new and upcoming techonogies. All my projects here are free and open-source.
 
 🧑🏻‍💻 Skills: ⚛REACT | VUE | JAVASCRIPT | HTML | CSS
 
