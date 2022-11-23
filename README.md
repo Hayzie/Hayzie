@@ -5,11 +5,11 @@ Hi there 👋
 
 My name is Hazel
 
-I am software developer experienced in frameworks including React, Vue, Laravel... and more, I love to experiment, try out new things and learn about new and upcoming techonogies. All my projects here are free and open-source.
+I am software developer experienced in latest web Technolies.
 
-- 🧑🏻‍💻 Skills: ⚛REACT | VUE | JAVASCRIPT | HTML | CSS
+- 🧑🏻‍💻 Top Skills: ⚛REACT | VUE | JAVASCRIPT | HTML | CSS | PHP
 
-- 🔭 I’m currently working on React and Vue based websites/apps.
+- 🔭 All the projects in this Repo. are free and open-source
 
 
 
