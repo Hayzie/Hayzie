@@ -5,11 +5,10 @@ Hi there 👋
 
 My name is Hazel
 
-I am software developer experienced in latest web Technogies.
+I am software developer experienced in web Technogies.
 
-- 🧑🏻‍💻 Top Skills: ⚛REACT | VUE | JAVASCRIPT | HTML | CSS | PHP
+🧑🏻‍💻 Top Skills: ⚛REACT | VUE | JAVASCRIPT | HTML | CSS | PHP
 
-- 🔭 All the projects in this Repo. are free and open-source
 
 
 
