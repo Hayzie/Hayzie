@@ -7,7 +7,7 @@ My name is Hazel
 
 I am software developer experienced in web technogies.
 
-🧑🏻‍💻 Top Skills: ⚛REACT | VUE | JAVASCRIPT | HTML | CSS | PHP
+Including: ⚛REACT | VUE | JAVASCRIPT | HTML | Tailwind CSS | Node | PHP
 
 
 
