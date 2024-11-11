@@ -9,7 +9,7 @@ I'm **Hazel**, I specialize in creating efficient, scalable, and user-friendly a
 
 ### 🛠️ Frameworks & Libraries
 
-| Technology     |                                         |
+| Technology     | Icon                                    |
 |----------------|-----------------------------------------|
 | React          | ![React Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg)   |
 | Vue            | ![Vue Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vue-dot-js.svg) |
@@ -23,7 +23,7 @@ I'm **Hazel**, I specialize in creating efficient, scalable, and user-friendly a
 
 ### 💻 Programming Languages
 
-| Language       |                                         |
+| Language       | Icon                                    |
 |----------------|-----------------------------------------|
 | JavaScript     | ![JavaScript Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg) |
 | PHP            | ![PHP Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg)       |
