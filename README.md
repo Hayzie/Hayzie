@@ -23,7 +23,7 @@ I'm **Hazel**, I specialize in creating efficient, scalable, and user-friendly a
 
 ### 💻 Programming Languages
 
-| Language       |                                         |
+| Language       |   .                                     |
 |----------------|-----------------------------------------|
 | JavaScript     | ![JavaScript Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg) |
 | PHP            | ![PHP Icon](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg)       |
